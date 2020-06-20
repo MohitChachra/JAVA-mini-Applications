@@ -1,1 +1,1 @@
-This program will find and replaceAll with all that string.
+This program will find and replaceAll with all the string.
